@@ -1,4 +1,4 @@
-## Mirmukhammad | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Mirmuxammad | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 <!-- <h3 align="center">:octocat: English :octocat:</h3> -->
@@ -16,7 +16,7 @@
 <!-- ---- SAY WELCOME ---- -->
 
 <h3 align="center">
-  Welcome to <a href="https://Mirmukhammad.vercel.app/">Mirmukhammad</a>'s profile!
+  Welcome to <a href="https://Mirmuxammad.vercel.app/">Mirmuxammad</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -69,7 +69,7 @@
 
 <!-- ---- DEFINEM'S GITHUB STATS ---- -->
 
-  ![Mirmukhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirmukhammad&show_icons=true&theme=transparent&items=center)
+  ![Mirmuxammad's GitHub stats](https://github-readme-stats.vercel.app/api?usernxame=Mirmuxammad&show_icons=true&theme=transparent&items=center)
 
 <br>
 
@@ -177,7 +177,7 @@
   Visitor count
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/Mirmukhammad/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Mirmuxammad/count.svg"/>
 </p>
 
 
